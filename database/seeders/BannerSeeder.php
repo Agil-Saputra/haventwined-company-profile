@@ -18,7 +18,14 @@ class BannerSeeder extends Seeder
             [
                 'id' => 1,
                 'title' => 'Become a Tenant at Your Event of Choice Easily, Quicky, and Relaisly.',
-                'image' => '[3]IN5705/07A1Y4QAC98QTC7_IRP3',
+                'image' => '/assets/banner1.jpg',
+                'created_at' => '2025-02-23 11:39:33',
+                'updated_at' => '2025-02-21 12:59:33',
+            ],
+            [
+                'id' => 2,
+                'title' => 'Become a Tenant at Your.',
+                'image' => 'aseets/banner2.webp',
                 'created_at' => '2025-02-23 11:39:33',
                 'updated_at' => '2025-02-21 12:59:33',
             ],

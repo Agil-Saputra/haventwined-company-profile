@@ -37,12 +37,17 @@ php artisan key:generate
 php artisan migrate
 ```
 
-### 6. Install JavaScript dependencies
+### 6. Run database seeder
+```sh
+php artisan db:seed
+```
+
+### 7. Install JavaScript dependencies
 ```sh
 npm install
 ```
 
-### 7. Build frontend assets
+### 8. Build frontend assets
 ```sh
 npm run dev
 ```

@@ -57,13 +57,3 @@ php artisan serve
 npm run dev
 ```
 
-## Authentication (Optional)
-If you want to use Laravel Breeze with Inertia and Vue.js for authentication:
-```sh
-composer require laravel/breeze --dev
-php artisan breeze:install vue --inertia
-npm install
-npm run dev
-php artisan migrate
-```
-

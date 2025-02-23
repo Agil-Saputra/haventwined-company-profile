@@ -12,8 +12,8 @@ Make sure you have the following installed:
 
 ### 1. Clone the repository
 ```sh
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/Agil-Saputra/haventwined-company-profile.git
+cd haventwined-company-profile
 ```
 
 ### 2. Install PHP dependencies
